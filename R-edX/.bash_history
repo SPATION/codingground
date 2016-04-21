@@ -1,0 +1,10 @@
+Rscript main.r
+Rscript Unit1.r
+Rscript Unit1.r
+Rscript Unit1.r
+Rscript Unit1.r
+Rscript Unit1.r
+Rscript Unit1.r
+Rscript Unit1.r
+Rscript Unit1.r
+Rscript Unit1.r
